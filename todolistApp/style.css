@@ -1,0 +1,23 @@
+
+
+.input-element{
+    width: 100%;
+    height: 35px;
+    line-height: 35px;
+    font-size: 18px;
+    color: black
+}
+
+.todo {
+    margin: 0  auto;
+    width: 80%;
+    border-bottom: 1px solid gray;
+}
+
+.todolist {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-column-gap: 10px;
+}
+
+
